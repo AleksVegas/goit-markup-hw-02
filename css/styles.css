@@ -31,10 +31,21 @@ body {
   color: #404bbf;
 }
 
+.section3 {
+background-color: #F4F4FD
+}
+
 .link-nav {
   font-weight: 500;
   font-size: 16px;
   line-height: 150%;
+  color: #2e2f42;
+  letter-spacing: 0.02em;
+}
+
+.link-nav:hover,
+.link-nav:focus {
+	color: #404bbf;
 }
 
 .mail-tel {
@@ -98,6 +109,10 @@ body {
   color: #2e2f42;
 }
 
+.list {
+background-color: #FFFFFF;
+}
+
 .title3 {
   font-weight: 500;
   font-size: 20px;
@@ -118,4 +133,14 @@ body {
 .footer {
   background-color: #2e2f42;
   font-family: "Raleway", sans-serif;
+}
+
+.link-footer {
+color: #f4f4fd
+}
+
+.p-footer {
+line-height: 1.5;
+color:#F4F4FD;
+letter-spacing: 0.02em;
 }
