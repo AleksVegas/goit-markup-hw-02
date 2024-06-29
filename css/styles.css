@@ -23,16 +23,13 @@ body {
   letter-spacing: 0.03em;
   color: #4d5ae5;
 }
-.main-link:hover {
-  color: #404bbf;
-}
-
+.main-link:hover,
 .main-link:focus {
   color: #404bbf;
 }
 
 .section3 {
-background-color: #F4F4FD
+  background-color: #f4f4fd;
 }
 
 .link-nav {
@@ -45,7 +42,7 @@ background-color: #F4F4FD
 
 .link-nav:hover,
 .link-nav:focus {
-	color: #404bbf;
+  color: #404bbf;
 }
 
 .mail-tel {
@@ -110,7 +107,7 @@ background-color: #F4F4FD
 }
 
 .list {
-background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 
 .title3 {
@@ -136,11 +133,11 @@ background-color: #FFFFFF;
 }
 
 .link-footer {
-color: #f4f4fd
+  color: #f4f4fd;
 }
 
 .p-footer {
-line-height: 1.5;
-color:#F4F4FD;
-letter-spacing: 0.02em;
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
 }
