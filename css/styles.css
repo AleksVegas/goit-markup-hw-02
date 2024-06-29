@@ -1,0 +1,29 @@
+body {
+  font-family: Roboto;
+  color: #434455;
+  background-color: #ffffff;
+}
+
+.main-link-web {
+  font-family: var(--second-family);
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 117%;
+  text-transform: uppercase;
+  color: var(--iris);
+  letter-spacing: 0.03em;
+}
+
+.main-link {
+  font-family: var(--second-family);
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 117%;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+.link-nav {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+}
