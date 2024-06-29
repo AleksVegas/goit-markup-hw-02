@@ -5,6 +5,7 @@ body {
 }
 
 .main-link-web {
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 117%;
@@ -19,7 +20,7 @@ body {
   font-size: 18px;
   line-height: 117%;
   text-transform: uppercase;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.03em;
   color: #4d5ae5;
 }
 .main-link:hover {
