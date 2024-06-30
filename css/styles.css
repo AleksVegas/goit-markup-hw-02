@@ -32,7 +32,6 @@ body {
   background-color: #f4f4fd;
 }
 
-
 .link-nav {
   font-weight: 500;
   font-size: 16px;
@@ -117,14 +116,13 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  text-transform: capitalize;
 }
 
 .paragraph {
   font-size: 16px;
   font-weight: 400;
   font-size: 16px;
-  line-height: 150%;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
@@ -152,14 +150,13 @@ body {
 }
 
 .title-two {
-font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
-letter-spacing: 0.02em;
-color:#2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .section-three {
-	background-color: #F4F4FD;
-	
+  background-color: #f4f4fd;
 }
