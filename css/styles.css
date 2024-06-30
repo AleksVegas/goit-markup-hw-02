@@ -4,6 +4,13 @@ body {
   background-color: #ffffff;
 }
 
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
 .main-link-web {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -130,7 +137,6 @@ body {
 
 .footer {
   background-color: #2e2f42;
-  font-family: "Raleway", sans-serif;
 }
 
 .link-footer {
@@ -143,6 +149,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
 }
 .p-footer {
   line-height: 1.5;
